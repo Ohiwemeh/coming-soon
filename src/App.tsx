@@ -63,7 +63,7 @@ export default function App() {
               Something Amazing is Coming
             </h2>
             <p className="text-xl md:text-2xl text-blue-200 max-w-2xl mx-auto">
-              We're crafting an extraordinary experience just for you. Stay tuned for the launch!
+              We're crafting an extraordinary experience just for you. <br /> Stay tuned for the launch!
             </p>
           </div>
 
