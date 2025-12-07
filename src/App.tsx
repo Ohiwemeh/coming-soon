@@ -1,5 +1,5 @@
 // import { useState, useEffect } from 'react';
-import { Mail, Clock, Sparkles } from 'lucide-react';
+import { Sparkles } from 'lucide-react';
 
 export default function App() {
   // const [email, setEmail] = useState('');
